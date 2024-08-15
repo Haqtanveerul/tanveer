@@ -79,6 +79,10 @@ nav img {
   font-size: var(--fs-24);
 }
 
+.hero-left {
+  width: 55%;
+}
+
 hr {
   margin: 70px 0;
 }
